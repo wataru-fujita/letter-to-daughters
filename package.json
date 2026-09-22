@@ -1,0 +1,10 @@
+{
+  "name": "letter-to-daughters",
+  "private": true,
+  "scripts": {
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3"
+  }
+}
